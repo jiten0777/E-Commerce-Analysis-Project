@@ -70,5 +70,5 @@ Feel free to fork this repository, contribute, or raise any issues!
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## **Contact Me**
-- **LinkedIn**: [LinkedIn Profile Link](www.linkedin.com/in/jitendra-singh-566a5522b)
+- **LinkedIn**: [LinkedIn Profile Link](https://www.linkedin.com/in/jitendra-singh-566a5522b/)
 - **GitHub**: [GitHub Profile Link](https://github.com/jiten0777)
